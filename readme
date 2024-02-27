@@ -1,0 +1,8 @@
+API  Covid 19
+Este proyecto recibe datos de casos de Covid-19 en Colombia a travez de la API (Sodapi) que Datos Abiertos Colombia nos provee.
+
+Requisitos
+
+Instala las librerias con los siguientes comandos:
+pip install pandas
+pip install sodapi
